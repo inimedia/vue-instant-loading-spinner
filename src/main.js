@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import VueInstantLoadingSpinner from './components/VueInstantLoadingSpinner.vue'
+import VueInstantLoadingSpinner from '../'
 
 /* eslint-disable no-new */
 new Vue({
