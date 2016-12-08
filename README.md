@@ -6,10 +6,10 @@
 
 ``` bash
 # yarn
-yarn add vue-instant-loading-spinenr
+yarn add vue-instant-loading-spinner
 
 # npm
-npm install --save vue-instant-loading-spinenr
+npm install --save vue-instant-loading-spinner
 ```
 
 ## Example
